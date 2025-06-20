@@ -1,0 +1,23 @@
+h1{
+    font-style: italic;
+    font-size: 40px;
+}
+p{
+    font-style:italic;
+    font-size: 30px;
+    color: brown;
+}
+div{
+    background-color: aqua;
+    height: 20px;
+    width: 50px;
+    border: 10px;
+    border-color: brown ;
+}
+button{
+        background-color: aqua;
+        color: blueviolet;
+    }
+body{
+    background-image: url('f.jpg');
+}
